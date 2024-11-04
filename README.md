@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Shaden:
 🔭 I’m currently studying at apple academy <br>👯 I’m looking to collaborate on App Development<br>🤝 I’m looking for help with coding<br>🌱 I’m currently learning Swift language<br>
 
 
